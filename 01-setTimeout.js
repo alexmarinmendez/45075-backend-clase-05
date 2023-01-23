@@ -1,3 +1,9 @@
+const temporizador = (cb) => {
+    setTimeout(cb, 5000)
+}
+
+const operacion = () => console.log('Ejecutar cualquier cosa')
+
 console.log('Programa iniciado')
-console.log('Programa en proceso')
+temporizador(operacion)
 console.log('Programa finalizado')
