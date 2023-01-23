@@ -1,5 +1,5 @@
 const temporizador = (cb) => {
-    setTimeout(cb, 5000)
+    setTimeout(cb, 0)
 }
 
 const operacion = () => console.log('Ejecutar cualquier cosa')
