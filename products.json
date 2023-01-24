@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Coca Cola 1lt",
+        "description": "Same description",
+        "price": 10,
+        "thumbnail": "https://coca.jpg",
+        "code": "10010",
+        "stock": 100
+    },
+    {
+        "id": 2,
+        "title": "Coca Cola 1lt",
+        "description": "Same description",
+        "price": 10,
+        "thumbnail": "https://coca.jpg",
+        "code": "10010",
+        "stock": 100
+    },
+    {
+        "id": 3,
+        "title": "Coca Cola 1lt",
+        "description": "Same description",
+        "price": 10,
+        "thumbnail": "https://coca.jpg",
+        "code": "10010",
+        "stock": 100
+    }
+]
